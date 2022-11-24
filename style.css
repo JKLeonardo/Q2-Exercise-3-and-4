@@ -1,0 +1,58 @@
+#div1{
+	border-style: dotted;
+	border-color: #bf3636;
+	margin: 15%;
+	padding: 12%;
+}
+
+#product{
+	font-family: Amatic SC;
+	font-size: 14pt;
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#price{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-family: ;
+	font-size: 50pt;
+	text-align: center;
+}
+
+body{
+	background-color: #734949;
+}
+
+img{
+	height: 70%;
+	width: 70%;
+	margin-left: 120px;
+	margin-right: 100px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+}
+
+h4{
+	font-family: Amatic SC;
+	font-size: 40pt;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 5px;
+}
+
+button{
+	border: none;
+	border-radius: 6px;
+	outline: 0;
+	display: #bf7154;
+	padding: 2%;
+	color: #bf7154;
+	background-color: #d9a282;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 180%;
+}
